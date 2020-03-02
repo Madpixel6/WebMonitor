@@ -1,0 +1,6 @@
+# Editors
+.vs/
+.vscode/
+# App specific
+bin/
+obj/
